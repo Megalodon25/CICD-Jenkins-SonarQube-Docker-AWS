@@ -1,3 +1,5 @@
+sonar.projectKey=Open-heimer-web
+
 node {
   stage('SCM') {
     checkout scm
